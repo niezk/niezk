@@ -1,5 +1,7 @@
 # 💫 About Me:
-ELAINA WANGYYYYY WANGYYYY<br>
+<p style="align-items: center; display: flex;">ELAINA WANGYYYYY WANGYYYY. lovely to see you to see you lovely</p>
+<br>
+<br>
 
 
 ## 🌐 Socials:
