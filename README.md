@@ -1,6 +1,15 @@
-# 💫 About Me:
-<p style="align-items: center; display: flex;">ELAINA WANGYYYYY WANGYYYY. lovely to see you to see you lovely</p>
+<h3 align="center">ELAINA WANGYYYYY WANGYYYY. <br> lovely to see you to see you lovely~~</h3>
+
+
 <br>
+
+## 💫 About Me:
+<p align="left">❤️‍🔥 I’m currently working on nyu MVP LEASTRIC SHEHACKS x ID CAMP CHALLANGE</p>
+<p align="left">🤖 Cybersecurity and Machine Learning Enthusiast</p>
+<p align="left">🧡 I'M A BIG FAN OF Orange Devils  </p>
+<br>
+
+[![](https://img.youtube.com/vi/yqQIk0HbCn0/maxresdefault.jpg)](https://www.youtube.com/watch?v=M-HoMvgKpLY)
 <br>
 
 
@@ -18,8 +27,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=niezk&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=niezk&icon=3&color=5)](https://visitcount.itsvg.in)
