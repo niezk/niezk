@@ -4,7 +4,6 @@
 <br>
 
 ## 💫 About Me:
-<p align="left">❤️‍🔥 I’m currently working on nyu MVP LEASTRIC SHEHACKS x ID CAMP CHALLANGE</p>
 <p align="left">🤖 Cybersecurity and Machine Learning Enthusiast</p>
 <p align="left">🧡 I'M A BIG FAN OF Orange Devils  </p>
 <br>
