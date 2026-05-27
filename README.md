@@ -1,18 +1,7 @@
 <h3 align="center">ELAINA WANGYYYYY WANGYYYY. <br> lovely to see you to see you lovely~~</h3>
 
 
-<br>
-
-## 💫 About Me:
-<p align="left">🤖 Cybersecurity and Machine Learning Enthusiast</p>
-<p align="left">🧡 I'M A BIG FAN OF Orange Devils  </p>
-<br>
-
-[![](https://img.youtube.com/vi/yqQIk0HbCn0/maxresdefault.jpg)](https://www.youtube.com/watch?v=M-HoMvgKpLY)
-<br>
-<br>
-<br>
-
+BRB
 
 
 ## 🌐 Socials:
